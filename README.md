@@ -29,8 +29,6 @@ function Ambitions() {
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphaelvasconcellos&label=Profile%20views&color=0e75b6&style=flat" alt="raphaelvasconcellos" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.raphaelvasconcellos.com.br](https://www.raphaelvasconcellos.com.br)
-
 - 📫 How to reach me **rapha.vasconcellos@live.com**
 
 <h3 align="left">Connect with me:</h3>
