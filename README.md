@@ -43,7 +43,7 @@ function Ambitions() {
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelvasconcellos&show_icons=true&theme=dracula&locale=en&layout=compact" alt="raphaelvasconcellos" />
 
-img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelvasconcellos&theme=dracula&show_icons=true&locale=en" alt="raphaelvasconcellos" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelvasconcellos&theme=dracula&show_icons=true&locale=en" alt="raphaelvasconcellos" />
 </div>
 
 
