@@ -28,8 +28,6 @@ function Ambitions() {
  ```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphaelvasconcellos&label=Profile%20views&color=0e75b6&style=flat" alt="raphaelvasconcellos" /> </p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c_PZTAW5piQ?si=QY8gev3RVvzl_VAY&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 - 📫 How to reach me **rapha.vasconcellos@live.com**
 
 <h3 align="left">Connect with me:</h3>
